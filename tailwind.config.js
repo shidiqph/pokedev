@@ -51,6 +51,28 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        poke: {
+          normal: "#bbbbbb",
+          fighting: "#c05650",
+          flying: "#aeaad9",
+          poison: "#b46eb8",
+          ground: "#dac572",
+          rock: "#b27651",
+          bug: "#b2e052",
+          ghost: "#816692",
+          steel: "#a8a8a8",
+          fire: "#e88a5b",
+          water: "#35baf3",
+          grass: "#5ab758",
+          electric: "#f2ec3d",
+          psychic: "#d67ad0",
+          ice: "#94d0e1",
+          dragon: "#636dd0",
+          dark: "#665056",
+          fairy: "#f4a7c1",
+          unknown: "#232323",
+          shadow: "#444444"
+        }
       },
       borderRadius: {
         lg: "var(--radius)",
